@@ -1,5 +1,8 @@
-<p align="center"> <img src="./SKID-dles.png" alt="SKID-dles" width="600"/> </p>
-SKID-dles
+<p align="center">
+  <img src="./SKID-dles.png" alt="SKID-dles" width="600"/>
+</p>
+
+# SKID-dles
 
 SKID-dles a pet project to basically delve deep into threats, attacks, defenses, and general cool shit that I find interesting in the space and go way too far in depth with them.
 
